@@ -1,6 +1,6 @@
-#Y.CMS Joomla
+#yandexmoney-joomla-joomshopping
 
-Модуль оплаты Y.CMS Joomla необходим для интеграции с сервисом [Яндекс.Касса](http://kassa.yandex.ru/) на базе CMS Joomla и компонента JoomShopping. 
+Модуль оплаты yandexmoney-joomla-joomshopping необходим для интеграции с сервисом [Яндекс.Касса](http://kassa.yandex.ru/) на базе CMS Joomla и компонента JoomShopping. 
 
 Доступные платежные методы, если вы работаете как юридическое лицо:
 * **Банковские карты** -  Visa (включая Electron), MasterCard и Maestro любого банка мира
