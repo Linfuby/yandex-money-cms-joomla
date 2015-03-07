@@ -21,7 +21,7 @@ define('_JSHOP_YM_METHOD_CARDS_DESCRIPTION', 'банковские карты VI
 define('_JSHOP_YM_METHOD_CASH_DESCRIPTION', 'наличными в кассах и терминалах партнеров');
 define('_JSHOP_YM_METHOD_PHONE_DESCRIPTION', 'оплата со счета мобильного телефона');
 define('_JSHOP_YM_METHOD_WM_DESCRIPTION', 'электронная валюта WebMoney');
-define('_JSHOP_YM_METHOD_AB_DESCRIPTION', 'АльфаКлиk');
+define('_JSHOP_YM_METHOD_AB_DESCRIPTION', 'Альфа-Клик');
 define('_JSHOP_YM_METHOD_SB_DESCRIPTION', 'Сбербанк Онлайн');
 define('_JSHOP_YM_ACCOUNT_DESCRIPTION', 'Номер кошелька Яндекс:');
 
