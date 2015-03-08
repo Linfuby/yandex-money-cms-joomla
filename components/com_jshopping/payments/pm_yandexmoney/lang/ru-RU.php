@@ -16,12 +16,12 @@ define('_JSHOP_YM_MODE_DESCRIPTION', 'Выберите способы оплат
 define('_JSHOP_YM_MODE1_DESCRIPTION', 'На счет физического лица в электронной валюте Яндекс.Денег');
 define('_JSHOP_YM_MODE2_DESCRIPTION', 'На расчетный счет организации с заключением договора с Яндекс.Деньгами');
 define('_JSHOP_YM_METHODS_DESCRIPTION', 'Укажите необходимые способы оплаты:');
-define('_JSHOP_YM_METHOD_YM_DESCRIPTION', 'электронная валюта Яндекс.Деньги');
-define('_JSHOP_YM_METHOD_CARDS_DESCRIPTION', 'банковские карты VISA, MasterCard, Maestro');
-define('_JSHOP_YM_METHOD_CASH_DESCRIPTION', 'наличными в кассах и терминалах партнеров');
-define('_JSHOP_YM_METHOD_PHONE_DESCRIPTION', 'оплата со счета мобильного телефона');
-define('_JSHOP_YM_METHOD_WM_DESCRIPTION', 'электронная валюта WebMoney');
-define('_JSHOP_YM_METHOD_AB_DESCRIPTION', 'АльфаКлиk');
+define('_JSHOP_YM_METHOD_YM_DESCRIPTION', 'Яндекс.Деньги');
+define('_JSHOP_YM_METHOD_CARDS_DESCRIPTION', 'Банковская карта');
+define('_JSHOP_YM_METHOD_CASH_DESCRIPTION', 'Наличными или в терминалах партнеров Яндекс.Денег');
+define('_JSHOP_YM_METHOD_PHONE_DESCRIPTION', 'Оплата со счета сотового телефона');
+define('_JSHOP_YM_METHOD_WM_DESCRIPTION', 'WebMoney');
+define('_JSHOP_YM_METHOD_AB_DESCRIPTION', 'Альфа-Клик');
 define('_JSHOP_YM_METHOD_SB_DESCRIPTION', 'Сбербанк Онлайн');
 define('_JSHOP_YM_ACCOUNT_DESCRIPTION', 'Номер кошелька Яндекс:');
 
